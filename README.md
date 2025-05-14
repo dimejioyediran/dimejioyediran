@@ -4,7 +4,7 @@ I'm a **Cybersecurity Analyst** passionate about ethical hacking, vulnerability 
 
 ## 🔍 About Me
 
-- 💼 Aspiring cybersecurity analyst | ISC2 Certified in Cybersecurity
+- 💼 Cybersecurity analyst | ISC2 Certified in Cybersecurity
 - 🎓 Completed the Google Cybersecurity Professional Certificate
 - 🧪 Completed introductory labs on **attacking and defensive security** via TryHackMe
 - 🛡️ Currently learning:
