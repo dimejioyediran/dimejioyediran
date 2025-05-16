@@ -12,6 +12,7 @@ I'm a **Cybersecurity Analyst** passionate about ethical hacking, vulnerability 
   - Using tools like **Wireshark** and **Nmap**
   - Basics of **Python** for simple analysis and automation
   - Real-world attack simulations through labs and CTFs
+  - Business analysis fundamentals with a focus on cybersecurity alignment
 - ⚒️ Exploring: **Kali Linux**, vulnerability scanners, SIEM tools
 
 ## 🚧 Current Projects
