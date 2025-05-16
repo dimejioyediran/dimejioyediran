@@ -1,4 +1,4 @@
-# Hi there, I'm Oladimeji (aka dimejioyediran) 👋
+# Hi there, I'm Oladimeji 👋
 
 I'm a **Cybersecurity Analyst** passionate about ethical hacking, vulnerability research, and protecting systems from real-world threats. I'm currently building my portfolio and sharpening my skills across different areas of cybersecurity.
 
