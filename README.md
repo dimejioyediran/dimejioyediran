@@ -23,8 +23,8 @@ I'm a **Cybersecurity Analyst** passionate about ethical hacking, vulnerability 
 
 ## 🤝 I’m open to
 
-- Collaborating on beginner-friendly cybersecurity projects
-- Entry-level opportunities in information security
+- Collaborating on cybersecurity projects
+- Opportunities in information security
 
 ## 📫 Connect with Me
 
