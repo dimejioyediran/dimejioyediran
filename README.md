@@ -30,3 +30,4 @@ I'm a **Cybersecurity Analyst** passionate about ethical hacking, vulnerability 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/oladimeji-oyediran-657658238)
 - 📧 dimejioyemarky@gmail.com
+- 📧 dimejioyediran@icloud.com
