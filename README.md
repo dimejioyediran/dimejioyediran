@@ -6,6 +6,7 @@ I'm a **Cybersecurity Analyst** passionate about ethical hacking, vulnerability 
 
 - 💼 Cybersecurity analyst | ISC2 Certified in Cybersecurity(CC)
 - 🎓 Completed the Google Cybersecurity Professional Certificate
+- 🎓 Completed the Pluralsight Security Compliance, Governance, and Frameworks Course
 - 🧪 Completed introductory labs on **attacking and defensive security** via TryHackMe
 - 🛡️ Currently learning:
   - Network security fundamentals
