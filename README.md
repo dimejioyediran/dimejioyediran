@@ -1,6 +1,6 @@
 # Hi there, I'm Oladimeji 👋  
 
-I'm a **Cybersecurity Analyst** with a growing focus on **Security Compliance, Governance, and Risk Management (GRC)**.  
+I'm a **Cybersecurity enthusiast** with a growing focus on **Security Compliance, Governance, and Risk Management (GRC)**.  
 I’m passionate about ethical hacking, vulnerability research, and aligning security controls with business and regulatory requirements.
 
 I’m currently developing both my **technical cybersecurity skills** and my understanding of how security integrates with governance, compliance, and organizational processes.
@@ -43,9 +43,9 @@ I’m particularly interested in building **secure, compliant, and resilient sys
 
 ---
 
-## 💼 Current Internship  
+## 💼 Current Career path  
 
-I am currently interning at the **Nigerian Airspace Management Agency (NAMA)** in the **Payroll Variation Unit**.
+I am currently working at the **Nigerian Airspace Management Agency (NAMA)** in the **Payroll Variation Unit**.
 
 In this role, I am gaining exposure to:
 
@@ -69,7 +69,7 @@ This experience strengthens my understanding of **process integrity, documentati
 
 ## 🤝 I’m Open To  
 
-- Entry-level cybersecurity roles  
+- Cybersecurity roles  
 - Governance, Risk & Compliance (GRC) opportunities  
 - Security analyst positions  
 - Collaborating on cybersecurity projects  
