@@ -1,7 +1,7 @@
 # Hi there, I'm Oladimeji 👋  
 
 I'm a **Cybersecurity enthusiast** with a growing focus on **Security Compliance, Governance, and Risk Management (GRC)**.  
-I’m passionate about ethical hacking, vulnerability research, and aligning security controls with business and regulatory requirements.
+With a background in business administration, I’m passionate about business analysis, grc, ethical hacking, vulnerability research, and aligning security controls with business and regulatory requirements.
 
 I’m currently developing both my **technical cybersecurity skills** and my understanding of how security integrates with governance, compliance, and organizational processes.
 
@@ -18,7 +18,8 @@ I’m currently developing both my **technical cybersecurity skills** and my und
 
 ## 🛡️ Technical Focus  
 
-- Network security fundamentals  
+- Network security fundamentals
+- Business Anaysis & Compliance  
 - Traffic analysis using **Wireshark**  
 - Network scanning & enumeration with **Nmap**  
 - Basics of **Python** for security analysis & automation  
@@ -39,22 +40,22 @@ Through structured learning and practical exposure, I’ve developed foundationa
 - Audit readiness and reporting practices  
 - Aligning cybersecurity initiatives with business objectives  
 
-I’m particularly interested in building **secure, compliant, and resilient systems** — ensuring organizations are not just technically secure, but operationally and regulatorily aligned.
+I’m particularly interested in building **secure, compliant, and resilient systems** for organizations and ensuring organizations are not just technically secure, but operationally and regulatorily aligned.
 
 ---
 
 ## 💼 Current Career path  
 
-I am currently working at the **Nigerian Airspace Management Agency (NAMA)** in the **Payroll Variation Unit**.
+I am currently in the Job market looking for a right fit for my skills and background.
 
-In this role, I am gaining exposure to:
+I am also currently gaining exposure to:
 
 - Organizational process controls  
 - Data handling and documentation practices  
 - Financial record variation procedures  
 - Accuracy, compliance, and accountability within structured systems  
 
-This experience strengthens my understanding of **process integrity, documentation control, and governance structures**, which directly support my long-term focus in cybersecurity compliance and risk management.
+This experience strengthens my understanding of **process integrity, documentation control, and governance structures**, which directly support my long-term focus in cybersecurity, compliance, business analysis and risk management.
 
 ---
 
@@ -69,7 +70,7 @@ This experience strengthens my understanding of **process integrity, documentati
 
 ## 🤝 I’m Open To  
 
-- Cybersecurity roles  
+- Any Job roles that might fit most with my talents  
 - Governance, Risk & Compliance (GRC) opportunities  
 - Security analyst positions  
 - Collaborating on cybersecurity projects  
